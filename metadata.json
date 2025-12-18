@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduResearch Hub - Elektron Ta'lim Muhiti",
+  "description": "Talabalarning ilmiy-tadqiqot faoliyatini rivojlantirish uchun ixtisoslashgan pedagogik platforma.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
